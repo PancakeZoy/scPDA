@@ -1,5 +1,5 @@
-from .model import VAE
-from .loss import TotalLoss
+from ._network import VAE
+from ._loss import TotalLoss
 from tqdm import tqdm
 import anndata as ad
 import torch

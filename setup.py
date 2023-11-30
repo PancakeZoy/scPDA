@@ -13,6 +13,5 @@ setup(
 		'anndata',
 		'pandas',
 		'numpy',
-		'time'
 	]
 )
