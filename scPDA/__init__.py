@@ -1,1 +1,1 @@
-from .main.api import model
+from .api import modelfrom ._version import __version__
