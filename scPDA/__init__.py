@@ -1,1 +1,2 @@
-from .api import modelfrom ._version import __version__
+from ._version import __version__
+from .api import Denoiser
