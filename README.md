@@ -4,7 +4,7 @@ scPDA is a VAE-based neural network for the task of denoising single-cell surfac
 
 Unlike most currently established methods, scPDA does not require empty droplets. scPDA establishes a probabilistic model for raw count data, and shows a great computational efficiency.
 
-For more details read our [manuscript]()
+For more details read our [manuscript](https://www.biorxiv.org/content/10.1101/2024.12.07.627329v1)
 <p align="center">
   <img src="https://raw.githubusercontent.com/PancakeZoy/scPDA/refs/heads/main/img/scPDA_stru.png" width="750" title="model_pic">
 </p>
